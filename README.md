@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Java Software Development**
 
-- 📫 How to reach me **vliang418@yahoo.com**
+- 📫 How to reach me: **vliang418@yahoo.com**
 
-- ⚡ Fun fact **Bananas are naturally radioactive due to their potassium content—but you'd have to eat around 10 million bananas at once to die of radiation poisoning.**
+- ⚡ Fun fact: **Bananas are naturally radioactive due to their potassium content—but you'd have to eat around 10 million bananas at once to die of radiation poisoning.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
