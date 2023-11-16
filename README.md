@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vincent</h1>
 <h3 align="center">Enthusiastic Java Learner and Aspiring Developer</h3>
 
-- 🌱 I’m currently learning **Java Software Development**
+- 🌱 I’m currently learning: **Java Software Development**
 
 - 📫 How to reach me: **vliang418@yahoo.com**
 
