@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincent</h1>
-<h3 align="center">Enthusiastic Java Learner and Aspiring Developer</h3>
+<h3 align="center">Enthusiastic Java and C# Learner and Aspiring Developer</h3>
 
 - 🌱 I’m currently learning: **Java Software Development**
 
